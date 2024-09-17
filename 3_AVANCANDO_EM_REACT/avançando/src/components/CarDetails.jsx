@@ -1,4 +1,4 @@
-const CarDetails = ({brand, km, color}) => {
+const CarDetails = (brand, km, color) => {
   return (
     <div>
         <h2>Detalhes do carro:</h2>

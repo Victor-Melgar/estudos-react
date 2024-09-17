@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: blue;
+}
+
+/* classe dinâmica */
+.red-title {
+  font-size: 50px;
+  color: red;
+  background-color: #000;
+}
+
+.title-black {
+  font-size: 70px;
+  color: black;
+  background-color: #eb0404;
+}
